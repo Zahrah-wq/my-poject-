@@ -1,0 +1,45 @@
+Conversation opened. 1 read message.
+
+Skip to content
+Using Gmail with screen readers
+in:sent 
+Enable desktop notifications for Gmail.
+   OK  No, thanks
+Conversations
+15 GB of 15 GB (100%) used
+Terms · Privacy · Programme Policies
+Last account activity: 0 minutes ago
+Currently being used in 1 other location · Details
+ 
+html{scroll-behavior:smooth}
+body{font-family:arial,san-serif;box-sizing:border-box;display:flex;flex-direction:column;}
+header{background-color:#666633;paddong:30px;text-align:center;color:black;}
+header{border:2px solid #001133;border-radius: 10px;}
+header nav{margin-top:100px;}
+nav a {margin: 0 10px;text-decoration:none; color:white;transtion:color 0.5s ease; margin: 30px; padding:10px;}
+ .photo-placeholder{display:flex; align-item:center;gap:75px;text-align:center;background-color:#990000}
+ .profile-picture{width:150px;height:150px;border-style:inset;}
+ 
+.main{padding: 15px; flex: 1;}
+.school-item{border:1px solid #ccc;text-align:transform 0.3s ease;}
+.school-item:hover{transfomation:tranform(-2);box-shadow:0 6px 15px rgb(0, 1, 0.2)}
+.school-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:15px;margin:20px;}
+.school-grid div{border-radius: 25px;border: 2px solid #73AD21;
+  padding: 20px;width: 200px;height: 70px;background-color: #ecc6ec;border-radius: 15px;}
+ nav {margin-top:20px;}
+  
+.work-experience{border:1px solid #cc; padding:20px; margin-top:30px}
+.career-prospects{margin:30pxpx 0; paddind: 20px; border-radius:8px;}
+ 
+a:visited {color: orange;}
+a:hover {color: hotpink;}
+a:active {color: blue;}
+
+section{ border: 15px hidden;border-radius: 8px;padding: 50px;margin: 20px;
+background-color:gray;margin-right: 1px;margin-left: 1px;}
+  
+  
+  footer{border: 15px hidden;border-radius: 8px;padding: 50px;margin: 20px;background-color: #000066;margin-right: 1px;margin-left: 1px;text-align:center; color:#4dffff;}
+
+external.css
+Displaying html.html.
